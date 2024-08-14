@@ -38,7 +38,7 @@
       <div class="bg-white rounded shadow p-6 hover:bg-gray-100 transition">
         <img src="../assets/angular.png" alt="Angular" class="w-16 h-16 mx-auto mb-4">
         <h3 class="text-xl font-bold mb-2 text-gray-800">Angular</h3>
-        <p class="text-gray-600">Creación de SPAs robustas y dinámicas utilizando Angular y TypeScript.</p>
+        <p class="text-gray-600">Creación de aplicaciones robustas y dinámicas utilizando Angular y TypeScript.</p>
       </div>
       <div class="bg-white rounded shadow p-6 hover:bg-gray-100 transition">
         <img src="../assets/bootstrap.svg" alt="Bootstrap" class="w-16 h-16 mx-auto mb-4">
