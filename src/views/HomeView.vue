@@ -88,7 +88,7 @@
               <path d="M21 12.23V4c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v8.23c-1.11.32-2 1.28-2 2.57V19c0 .55.45 1 1 1h18c.55 0 1-.45 1-1v-3.2c0-1.29-.89-2.25-2-2.57zM6 16.5V7h2v9.5H6zm10.5 0H12V7h4.5v9.5zm4.5 0h-2V7h2v9.5z"/>
             </svg>
             <p class="text-gray-300 text-lg font-medium">
-              <strong>Teléfono:</strong> <a href="tel:+1234567890" class="text-blue-400 hover:underline">+1234567890</a>
+              <strong>Teléfono:</strong> <a href="tel:+34 638756015" class="text-blue-400 hover:underline">+34 638756015</a>
             </p>
           </div>
         </div>
