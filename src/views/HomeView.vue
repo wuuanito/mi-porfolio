@@ -47,6 +47,9 @@
       </div>
     </section>
 
+    <!-- RoadMap Section-->
+  
+
     <!-- Contact Section -->
     <section class="bg-gray-700 py-16">
       <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -113,17 +116,20 @@
 </template>
 
 <script>
+import roadmapImage from '@/assets/roadmap.jpg'
 export default {
   name: 'HomeView',
   data() {
-    return {
-      form: {
-        name: '',
-        email: '',
-        message: ''
+      return {
+        form: {
+          name: '',
+          email: '',
+          message: ''
+        },
+        roadmapImage
+  
       }
-    }
-  },
+    },
   methods: {
     submitForm() {
       // Aquí puedes manejar el envío del formulario
