@@ -40,6 +40,7 @@
 
 <script>
 import TaskTrackerImage from '@/assets/FuncionamientoTaskTracker.png'
+import GitHubActivityImage from '@/assets/github.png'
 export default {
   name: 'ProjectsView',
   data() {
@@ -53,6 +54,16 @@ export default {
           technologies: ['Node.js'],
           github: 'https://github.com/wuuanito/Task-Tracker.git',
           demo: 'https://replit.com/@juancore97/Task-tracker',
+          dificultad: 'Facil'  // Puedes ajustar el valor según corresponda
+        },
+        {
+          id: 2,
+          title: 'GitHub Activity CLI',
+          description: 'es una herramienta de línea de comandos (CLI) que permite obtener y visualizar la actividad reciente de cualquier usuario en GitHub directamente desde la terminal. Utilizando la API pública de GitHub.',
+          image: GitHubActivityImage,
+          technologies: ['Node.js'],
+          github: 'https://github.com/wuuanito/GitHub-User-Activity.git',
+          demo: 'https://replit.com/@juancore97/GitHub-User-Activity',
           dificultad: 'Facil'  // Puedes ajustar el valor según corresponda
         },
         // Añade más proyectos según sea necesario
